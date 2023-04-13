@@ -1,0 +1,3 @@
+# Trading Algorithm
+
+Using python and Django to build a trading algorithm based in Zipline tool...
